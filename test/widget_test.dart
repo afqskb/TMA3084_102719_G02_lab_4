@@ -11,11 +11,10 @@
 // import 'package:lab_04/main.dart';
 
 void main() {
-
   test('Placeholder test', () {
     expect(true, isTrue);
   });
-  
+
   // testWidgets('Counter increments smoke test', (WidgetTester tester) async {
   //   // Build our app and trigger a frame.
   //   await tester.pumpWidget(const MyApp());
